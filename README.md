@@ -15,7 +15,8 @@ pip install requests python-dotenv
 
 
 
-⚙️ 2. Como Configurar e Executar
+##⚙️ 2. Como Configurar e Executar
+
 Passo 1: Criar o arquivo .env
 Por questões de segurança, as credenciais não são enviadas ao repositório.
 
