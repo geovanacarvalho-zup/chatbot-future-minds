@@ -14,12 +14,10 @@ No terminal, instale as bibliotecas necessárias com o comando:
 pip install requests python-dotenv
 
 
----
-##⚙️ 2. Como Configurar e Executar
+⚙️ 2.COMO COFIGURAR E EXECUTAR
 
 Passo 1: Criar o arquivo .env
 Por questões de segurança, as credenciais não são enviadas ao repositório.
-
 Crie um arquivo chamado .env na raiz do projeto e preencha com as suas credenciais da StackSpot:
 
 Snippet de código
@@ -28,7 +26,7 @@ STACKSPOT_CLIENT_ID=<SEU_CLIENT_ID_AQUI>
 STACKSPOT_CLIENT_KEY=<SEU_CLIENT_KEY_AQUI>
 STACKSPOT_AGENT_SLUG=01M72MJJHR201Q51FK9PHBHZYF
 
-Atenção: A aplicação gerencia a renovação de tokens automaticamente via OAuth2 a cada execução.
+ATENÇÃO: A aplicação gerencia a renovação de tokens automaticamente via OAuth2 a cada execução.
 
 Passo 2: Iniciar a aplicação
 Com o arquivo .env configurado, execute:
