@@ -14,7 +14,7 @@ No terminal, instale as bibliotecas necessárias com o comando:
 pip install requests python-dotenv
 
 
-⚙️ 2.COMO COFIGURAR E EXECUTAR
+⚙️ 2.COMO CONFIGURAR E EXECUTAR
 
 Passo 1: Criar o arquivo .env
 Por questões de segurança, as credenciais não são enviadas ao repositório.
